@@ -2,18 +2,5 @@
 
 	echo "HELLO WORLD";
 	echo " this is a git example commit" 
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
+	echo "removed all those Ds";
 ?>
