@@ -1,5 +1,5 @@
 <?php
 
 	echo "HELLO WORLD";
-	echo " this is a git test";
+	echo " this is a git example commit" 
 ?>
