@@ -1,4 +1,4 @@
-<?php
+?php
 
 	echo "HELLO WORLD";
 	echo " this is a git example commit" 
@@ -7,15 +7,15 @@
 
 >>>>>>>>>>>>>>>>>>>
 
- some bad content
+ some good content
   
 
- some bad content
+ some good content
   
 
- some bad content
+ some good content
   
 
- some bad content
+ some good content
   
 >>>>>>>>>>>>>>>>>>
